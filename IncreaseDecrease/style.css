@@ -1,0 +1,15 @@
+
+    body{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-color: antiquewhite;
+      
+    }
+    #output{
+      font-size: 100px;
+    }
+    button{
+      display: inline-block;
+    }
